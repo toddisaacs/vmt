@@ -1,0 +1,52 @@
+{\rtf1\ansi
+{\fonttbl\f0\fnil Monospaced;\f1\fnil Arial;}
+{\colortbl\red0\green0\blue0;\red192\green192\blue192;}
+
+\li0\ri0\fi0\f1\fs36\i0\b\ul0 Maintenance Report - October 21, 2001\fs24\b0\par
+\par
+Vehicle : \tab Ford\tab\tab VIN/SN   : \tab 234HFL345J034N\par
+Make    : \tab Ford\tab\tab Year     : \tab 2000\par
+Model   : \tab F150\tab\tab Odometer : \tab 65800\par
+Color   : \tab Chestnut/Beige\par
+\par
+Service Records\par
+\b Date \tab Mileage/Hours \tab Service Type \tab Price\par
+\fs20\b0 10/19/2001\tab 47000\tab\tab Oil Change\tab\tab 12.0\par
+\fs24\i\cf1 Test\par
+\fs20\i0 10/19/2001\tab 47000\tab\tab Oil Change\tab\tab 12.0\par
+\fs24\i Test 2\par
+\fs20\i0 10/19/2001\tab 48000\tab\tab Rotate Tires\tab\tab 11.0\par
+\fs24\i Larger Odometer test edit\par
+\fs20\i0 10/19/2001\tab 49000\tab\tab Oil Change\tab\tab 12.0\par
+\fs24\i Larger Odometer\par
+\fs20\i0 10/19/2001\tab 56000\tab\tab Oil Change\tab\tab 12.0\par
+\fs24\i Test\par
+\fs20\i0 10/19/2001\tab 59000\tab\tab Oil Change\tab\tab 12.0\par
+\fs24\i Test\par
+\fs20\i0 10/19/2001\tab 59556\tab\tab Oil Change\tab\tab 12.0\par
+\fs24\i Test\par
+\fs20\i0 10/19/2001\tab 59545\tab\tab Oil Change\tab\tab 12.0\par
+\fs24\i Test\par
+\fs20\i0 10/19/2001\tab 60000\tab\tab Oil Change\tab\tab 12.0\par
+\fs24\i Test\par
+\fs20\i0 10/19/2001\tab 61000\tab\tab Oil Change\tab\tab 12.0\par
+\fs24\i Test\par
+\fs20\i0 10/19/2001\tab 61220\tab\tab Oil Change\tab\tab 12.0\par
+\fs24\i Test\par
+\fs20\i0 10/19/2001\tab 63220\tab\tab Oil Change\tab\tab 12.0\par
+\fs24\i Test\par
+\fs20\i0 10/19/2001\tab 64220\tab\tab Oil Change\tab\tab 12.0\par
+\fs24\i Test\par
+\fs20\i0 10/19/2001\tab 65220\tab\tab Oil Change\tab\tab 12.0\par
+\fs24\i Test\par
+\fs20\i0 10/19/2001\tab 65220\tab\tab Oil Change\tab\tab 12.0\par
+\fs24\i Test\par
+\fs20\i0 10/19/2001\tab 67220\tab\tab Oil Change\tab\tab 12.0\par
+\fs24\i Test\par
+\fs20\i0 10/19/2001\tab 63220\tab\tab Oil Change\tab\tab 12.0\par
+\fs24\i Test\par
+\fs20\i0 10/19/2001\tab 67220\tab\tab Oil Change\tab\tab 12.0\par
+\fs24\i Test\par
+\i0\par
+\li0\ri0\fi0\fs24\i0\b0\ul0\par
+}

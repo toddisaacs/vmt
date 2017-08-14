@@ -1,0 +1,14 @@
+{\rtf1\ansi
+{\fonttbl\f0\fnil Monospaced;\f1\fnil Arial;}
+
+\f1\fs36\b Maintenance Report - September 11, 2001\fs24\b0\par
+\par
+Vehicle : \tab Ranger\tab\tab VIN/SN   : \tab 234232523452\par
+Make    : \tab Ford\tab\tab Year     : \tab 1989\par
+Model   : \tab Ranger\tab\tab Odometer : \tab 191330\par
+Color   : \tab Red\par
+\par
+Service Records\par
+\fs24\b Date \tab Mileage/Hours \tab Service Type \tab Price\par
+\b0\par
+}

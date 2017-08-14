@@ -1,0 +1,6 @@
+WARNING: Cloudscape (instance c013800d-015d-de83-4f59-00c0a8010200) is attempting to boot the database /Volumes/My Passport/oldsystem/documents/todd_isaacs/vmt/CloudscapeDB even though cloudscape (instance c013800d-0143-35b1-e012-00ac101fb200) may still be active.  Only one instance of cloudscape should boot a database at a time. Severe and non-recoverable corruption can result and may have already occurred.
+----------------------------------------------------------------
+2017-08-14 02:12:13.833 GMT:
+ Booting cloudscape version Cloudscape - DBMS:cloudscape - 3.6.4 - (20531): instance c013800d-015d-de83-4f59-00c0a8010200
+on database directory /Volumes/My Passport/oldsystem/documents/todd_isaacs/vmt/CloudscapeDB 
+

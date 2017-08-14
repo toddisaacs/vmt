@@ -1,0 +1,18 @@
+{\rtf1\ansi
+{\fonttbl\f0\fnil Monospaced;\f1\fnil Tahoma;\f2\fnil Arial;}
+
+\f2\fs36\i0\b Maintenance Report - April 7, 2009\fs24\b0\par
+\par
+Vehicle : \tab 234\tab\tab VIN/SN   : \tab 234\par
+Make    : \tab 234\tab\tab Year     : \tab 234\par
+Model   : \tab 234\tab\tab Odometer : \tab 2000\par
+Color   : \tab 234\par
+\par
+Service Records\par
+\f1\fs22\b Date \tab Mileage/Hours \tab Service Type \tab\tab Price\par
+\fs20\b0 10/21/2001\tab 23431\tab\tab Oil Change                    \tab 2.30\par
+10/21/2001\tab 23431\tab\tab Oil Change                    \tab 2.35\par
+10/21/2001\tab 23431\tab\tab Oil Change                    \tab 1,002.35\par
+02/27/2002\tab 2000\tab\tab Oil Change                    \tab 2.30\par
+\fs22\par
+}

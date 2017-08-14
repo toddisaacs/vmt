@@ -1,0 +1,31 @@
+{\rtf1\ansi
+{\fonttbl\f0\fnil Monospaced;\f1\fnil Arial;}
+{\colortbl\red0\green0\blue0;\red192\green192\blue192;}
+
+\f1\fs36\b Vehicle Maintenance Tracker \fs24\b0\par
+\par
+\b Designed By:\b0 \tab Todd Isaacs\par
+\tab\tab tisaacs@in.net\par
+\par
+\b Java Technologies:\b0 \tab JDBC\par
+\tab\tab Swing\par
+\tab\tab Java Printing\par
+\tab\tab Collections\par
+\tab\tab IO\par
+\par
+\b Design Goals:\b0 \tab Swing Basics\par
+\tab\tab OOP\par
+\tab\tab OOD\par
+\tab\tab Pattern Basics\par
+\par
+This was my first Java GUI program. I was concentrating on how to work with Swing and 
+design the program with component type modules that are not tied to each other.  The 
+data is saved to a Cloudscape Java database that runs in the same virtual machine.  
+The system was designed using a vehicle 
+manager.  The vehicle manager is extended from the Observable object.  The other 
+components all implemented the Observer interface allowing them to observe changes in 
+the vehicle manager.  Setting up the Observer/Observable pattern allowed a clean and 
+easy way to develop each component.  Swing's MVC arcitechture was used by implementing 
+Swing component data models.  This allowed an efficient and easy way to update each 
+component after a change was made to the individual module.
+}
